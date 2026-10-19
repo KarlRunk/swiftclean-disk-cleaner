@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue.svg)](#download)
-[![Release](https://img.shields.io/github/v/release/your-org/swiftclean.svg)](../../releases)
+[![Release](https://img.shields.io/github/v/release/KarlRunk/swiftclean-disk-cleaner.svg)](https://github.com/KarlRunk/swiftclean-disk-cleaner/releases)
 
 </div>
 

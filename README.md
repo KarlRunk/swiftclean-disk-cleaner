@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="SwiftClean Logo" width="100" style="border-radius: 20%;">
 
-# SwiftClean
+# SwiftClean - PC Optimization & Disk Cleaner
 
 
 **Fast**, **quiet**, and **transparent** storage optimizer. Frees up space without breaking your OS or messing with your personal files.
